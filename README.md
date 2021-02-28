@@ -1,1 +1,1 @@
-# SoftSheetDialog
+# Soft BottomSheetDialog for Android
